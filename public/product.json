@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Curtain",
+    "image": "./images/1curtain.jpg",
+    "description": "Elegant curtain perfect for living rooms and bedrooms."
+  },
+  {
+    "name": "Vase",
+    "image": "./images/2vase.jpg",
+    "description": "Decorative ceramic vase to add beauty to your home."
+  },
+  {
+    "name": "Sony PlayStation 4",
+    "image": "./images/3ps5.jpg",
+    "description": "Sony PlayStation 4, a powerful gaming console for ultimate entertainment."
+  },
+  {
+    "name": "Yellow Accent Chair with Ottoman",
+    "image": "./images/4sofa.jpg",
+    "description": "Comfortable armchair with free ottoman, wooden deep walnut legs, cotton-linen fabric, perfect for living room or bedroom."
+  },
+  {
+    "name": "Le Creuset 5-Piece Cookware Bundle",
+    "image": "./images/5pot.jpg",
+    "description": "Le Creuset 5-piece oven and stovetop cookware bundle with Dutch oven, stockpot, and nonstick fry pan - Caribbean color."
+  },
+  {
+    "name": "Gucci GG Marmont Shoulder Bag",
+    "image": "./images/6gucchi.jpg",
+    "description": "Luxury small GG Marmont chain shoulder bag in black, made of calfskin leather."
+  },
+  {
+    "name": "Backpack",
+    "image": "./images/7bag.jpg",
+    "description": "Stylish and functional backpack for everyday use."
+  },
+  {
+    "name": "Apple AirPods 2nd Generation",
+    "image": "./images/8airpods.jpg",
+    "description": "Apple AirPods with wireless charging box, high-quality earbuds for superior audio experience."
+  },
+  {
+    "name": "The Ordinary The Bright Set",
+    "image": "./images/9ordianry.jpg",
+    "description": "Skincare set including Squalane Cleanser, Caffeine Solution 5% + EGCG, Ethylated Ascorbic Acid 15%, and Glycolic Acid 7% Toning Solution."
+  },
+  {
+    "name": "Amazon Echo (2nd Gen)",
+    "image": "./images/10amazon.jpg",
+    "description": "Amazon Echo smart speaker powered by Dolby, in white."
+  },
+  {
+    "name": "Polaroid One Step 2 Camera",
+    "image": "./images/11polaroid.jpg",
+    "description": "Retro instant film camera with viewfinder, available in red/white."
+  },
+  {
+    "name": "Medical Alert ID Tag",
+    "image": "./images/12watch.jpg",
+    "description": "Medical alert ID sleeve that fits Apple Watch, Fitbit, and more."
+  },
+  {
+    "name": "Versace Eros Perfume",
+    "image": "./images/13versace.jpg",
+    "description": "Versace Eros fragrance for men, in a 50ml glass bottle."
+  },
+  {
+    "name": "KitKat",
+    "image": "./images/14kitkat.jpg",
+    "description": "Delicious chocolate-covered wafer bar."
+  },
+  {
+    "name": "Nescafe",
+    "image": "./images/15coffee.jpg",
+    "description": "Instant coffee for a rich and flavorful cup."
+  },
+  {
+    "name": "Sony Over-Ear Headphones",
+    "image": "./images/16sony.jpg",
+    "description": "Sony MDR-ZX660AP lightweight over-ear headphones in white."
+  },
+  {
+    "name": "Colourblock Sneakers",
+    "image": "./images/17shoe.jpg",
+    "description": "Trendy colorblock sneakers, perfect for casual wear."
+  },
+  {
+    "name": "MAYSURE Juice Shot Bottles",
+    "image": "./images/18shot.jpg",
+    "description": "2oz, 3oz, and 5oz plastic juice shot bottles, perfect for storing freshly squeezed juices."
+  },
+  {
+    "name": "The Body Shop Sheet Mask",
+    "image": "./images/19facemask.jpg",
+    "description": "Youth-enhancing sheet mask for bouncier and refreshed skin in just 15 minutes."
+  },
+  {
+    "name": "Bioglow Face Cream",
+    "image": "./images/20bioglow.jpg",
+    "description": "Nourishing face cream for glowing skin, available with free shipping."
+  }
+]
