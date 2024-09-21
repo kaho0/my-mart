@@ -5,8 +5,10 @@ const Footer = () => {
     <footer className="footer bg-white text-gray-800 p-10 flex flex-col items-center">
       <aside className="flex items-center mb-6">
         <img src={logo} alt="MyMart Logo" className="h-24 mr-4" />
-        <p className="text-center font-semibold">
-          MyMart
+        <p className="text-center  font-semibold">
+          <p className="font-rancho text-2xl font-semibold text-orange-500">
+            MyMart
+          </p>
           <br />
           Your one-stop shop for everything!
           <br />
