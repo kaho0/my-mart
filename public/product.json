@@ -1,102 +1,122 @@
 [
   {
     "name": "Curtain",
-    "image": "https://i.ibb.co.com/xGqQzX1/1curtain.jpg",
-    "description": "Elegant curtain perfect for living rooms and bedrooms."
+    "image": "https://i.ibb.co/xGqQzX1/1curtain.jpg",
+    "description": "Elegant curtain perfect for living rooms.",
+    "price": "$49.99"
   },
   {
     "name": "Vase",
-    "image": "https://i.ibb.co.com/cwHCRbW/2vase.jpg",
-    "description": "Decorative ceramic vase to add beauty to your home."
+    "image": "https://i.ibb.co/cwHCRbW/2vase.jpg",
+    "description": "Decorative vase to enhance your decor.",
+    "price": "$35.99"
   },
   {
-    "name": "Sony PlayStation 4",
-    "image": "https://i.ibb.co.com/6ghkQsS/3ps5.jpg",
-    "description": "Sony PlayStation 4, a powerful gaming console for ultimate entertainment."
+    "name": "PS4",
+    "image": "https://i.ibb.co/6ghkQsS/3ps5.jpg",
+    "description": "Powerful gaming console for entertainment.",
+    "price": "$299.99"
   },
   {
-    "name": "Yellow Accent Chair with Ottoman",
-    "image": "https://i.ibb.co.com/DWT6fm2/4sofa.jpg",
-    "description": "Comfortable armchair with free ottoman, wooden deep walnut legs, cotton-linen fabric, perfect for living room or bedroom."
+    "name": "Accent Chair",
+    "image": "https://i.ibb.co/DWT6fm2/4sofa.jpg",
+    "description": "Comfortable chair with an ottoman.",
+    "price": "$189.99"
   },
   {
-    "name": "Le Creuset 5-Piece Cookware Bundle",
-    "image": "https://i.ibb.co.com/871YJ0W/5pot.jpg",
-    "description": "Le Creuset 5-piece oven and stovetop cookware bundle with Dutch oven, stockpot, and nonstick fry pan - Caribbean color."
+    "name": "Cookware Set",
+    "image": "https://i.ibb.co/871YJ0W/5pot.jpg",
+    "description": "Versatile cookware bundle for your kitchen.",
+    "price": "$399.99"
   },
   {
-    "name": "Gucci GG Marmont Shoulder Bag",
-    "image": "https://i.ibb.co.com/dKr5jL5/6gucchi.jpg",
-    "description": "Luxury small GG Marmont chain shoulder bag in black, made of calfskin leather."
+    "name": "Gucci Bag",
+    "image": "https://i.ibb.co/dKr5jL5/6gucchi.jpg",
+    "description": "Luxury handbag made from premium leather.",
+    "price": "$1,490.00"
   },
   {
     "name": "Backpack",
-    "image": "https://i.ibb.co.com/fFFN1pH/7bag.jpg",
-    "description": "Stylish and functional backpack for everyday use."
+    "image": "https://i.ibb.co/fFFN1pH/7bag.jpg",
+    "description": "Stylish backpack for daily use.",
+    "price": "$59.99"
   },
   {
-    "name": "Apple AirPods 2nd Generation",
-    "image": "https://i.ibb.co.com/K649MsZ/8airpods.jpg",
-    "description": "Apple AirPods with wireless charging box, high-quality earbuds for superior audio experience."
+    "name": "AirPods",
+    "image": "https://i.ibb.co/K649MsZ/8airpods.jpg",
+    "description": "High-quality wireless earbuds.",
+    "price": "$129.99"
   },
   {
-    "name": "The Ordinary The Bright Set",
-    "image": "https://i.ibb.co.com/SV5qrZH/9ordianry.jpg",
-    "description": "Skincare set including Squalane Cleanser, Caffeine Solution 5% + EGCG, Ethylated Ascorbic Acid 15%, and Glycolic Acid 7% Toning Solution."
+    "name": "Bright Set",
+    "image": "https://i.ibb.co/SV5qrZH/9ordianry.jpg",
+    "description": "Skincare set for a radiant glow.",
+    "price": "$45.00"
   },
   {
-    "name": "Amazon Echo (2nd Gen)",
-    "image": "https://i.ibb.co.com/bb2RSHS/10amazon.jpg",
-    "description": "Amazon Echo smart speaker powered by Dolby, in white."
+    "name": "Echo",
+    "image": "https://i.ibb.co/bb2RSHS/10amazon.jpg",
+    "description": "Smart speaker with great sound.",
+    "price": "$79.99"
   },
   {
-    "name": "Polaroid One Step 2 Camera",
-    "image": "https://i.ibb.co.com/C2NJX3n/11polaroid.jpg",
-    "description": "Retro instant film camera with viewfinder, available in red/white."
+    "name": "Polaroid Camera",
+    "image": "https://i.ibb.co/C2NJX3n/11polaroid.jpg",
+    "description": "Instant camera for capturing moments.",
+    "price": "$99.99"
   },
   {
-    "name": "Medical Alert ID Tag",
-    "image": "https://i.ibb.co.com/3YRSby8/12watch.jpg",
-    "description": "Medical alert ID sleeve that fits Apple Watch, Fitbit, and more."
+    "name": "ID Tag",
+    "image": "https://i.ibb.co/3YRSby8/12watch.jpg",
+    "description": "Medical alert tag for safety.",
+    "price": "$12.99"
   },
   {
-    "name": "Versace Eros Perfume",
-    "image": "https://i.ibb.co.com/JzxBCgP/13versace.jpg",
-    "description": "Versace Eros fragrance for men, in a 50ml glass bottle."
+    "name": "Versace Perfume",
+    "image": "https://i.ibb.co/JzxBCgP/13versace.jpg",
+    "description": "Fragrance for a sophisticated scent.",
+    "price": "$55.00"
   },
   {
     "name": "KitKat",
-    "image": "https://i.ibb.co.com/KVm1zgv/14kitkat.jpg",
-    "description": "Delicious chocolate-covered wafer bar."
+    "image": "https://i.ibb.co/KVm1zgv/14kitkat.jpg",
+    "description": "Classic chocolate-covered wafer bar.",
+    "price": "$1.99"
   },
   {
     "name": "Nescafe",
-    "image": "https://i.ibb.co.com/PsLy1LZ/15coffee.jpg",
-    "description": "Instant coffee for a rich and flavorful cup."
+    "image": "https://i.ibb.co/PsLy1LZ/15coffee.jpg",
+    "description": "Instant coffee for a flavorful cup.",
+    "price": "$7.99"
   },
   {
-    "name": "Sony Over-Ear Headphones",
-    "image": "https://i.ibb.co.com/HDz6hNJ/16sony.jpg",
-    "description": "Sony MDR-ZX660AP lightweight over-ear headphones in white."
+    "name": "Sony Headphones",
+    "image": "https://i.ibb.co/HDz6hNJ/16sony.jpg",
+    "description": "Lightweight headphones for immersive sound.",
+    "price": "$49.99"
   },
   {
-    "name": "Colourblock Sneakers",
-    "image": "https://i.ibb.co.com/JQYmcCB/17shoe.jpg",
-    "description": "Trendy colorblock sneakers, perfect for casual wear."
+    "name": "Sneakers",
+    "image": "https://i.ibb.co/JQYmcCB/17shoe.jpg",
+    "description": "Trendy sneakers for casual wear.",
+    "price": "$79.99"
   },
   {
-    "name": "MAYSURE Juice Shot Bottles",
-    "image": "https://i.ibb.co.com/sWzwXB0/18shot.jpg",
-    "description": "2oz, 3oz, and 5oz plastic juice shot bottles, perfect for storing freshly squeezed juices."
+    "name": "Juice Bottles",
+    "image": "https://i.ibb.co/sWzwXB0/18shot.jpg",
+    "description": "Bottles for storing fresh juices.",
+    "price": "$24.99"
   },
   {
-    "name": "The Body Shop Sheet Mask",
-    "image": "https://i.ibb.co.com/LJPyV6r/19facemask.jpg",
-    "description": "Youth-enhancing sheet mask for bouncier and refreshed skin in just 15 minutes."
+    "name": "Sheet Mask",
+    "image": "https://i.ibb.co/LJPyV6r/19facemask.jpg",
+    "description": "Hydrating mask for refreshed skin.",
+    "price": "$4.99"
   },
   {
-    "name": "Bioglow Face Cream",
-    "image": "https://i.ibb.co.com/Z6Gg0Tx/20bioglow.jpg",
-    "description": "Nourishing face cream for glowing skin, available with free shipping."
+    "name": "Face Cream",
+    "image": "https://i.ibb.co/Z6Gg0Tx/20bioglow.jpg",
+    "description": "Nourishing cream for glowing skin.",
+    "price": "$14.99"
   }
 ]
